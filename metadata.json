@@ -1,0 +1,5 @@
+{
+  "name": "Student Management System",
+  "description": "A comprehensive web-based platform designed to simplify learning and teaching, with separate dashboards for students and teachers.",
+  "requestFramePermissions": []
+}

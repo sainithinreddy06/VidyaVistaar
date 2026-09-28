@@ -1,0 +1,16 @@
+{
+  "name": "VidyaVistaar Student Management System",
+  "short_name": "VidyaVistaar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "description": "A comprehensive web-based platform designed to simplify learning and teaching, with separate dashboards for students and teachers.",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
